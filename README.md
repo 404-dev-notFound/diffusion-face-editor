@@ -1,4 +1,4 @@
-# 🎨 Face Generation & Editing with Stable Diffusion
+# Face Generation & Editing with Stable Diffusion
 
 An interactive **Streamlit** app for **generating** and **editing** human faces using **Stable Diffusion models**!  
 Customize features like **age**, **smile intensity**, **eye color**, and **hair color** — all in a beautiful web UI.
@@ -9,7 +9,7 @@ The project explores **controllable image editing** with diffusion models: creat
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generate photorealistic portraits from simple text prompts.
 - Edit the generated image dynamically:
@@ -24,7 +24,7 @@ The project explores **controllable image editing** with diffusion models: creat
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - [Streamlit](https://streamlit.io/) — For the interactive UI
 - [Diffusers (Hugging Face)](https://huggingface.co/docs/diffusers/index) — Stable Diffusion model
@@ -33,25 +33,25 @@ The project explores **controllable image editing** with diffusion models: creat
 - [ngrok](https://ngrok.com/) — Publicly share your local Streamlit app
 
 ---
-## ⚡ Quick Overview
+## Quick Overview
 - Select a prompt and generate an initial face.
 - Use sidebar sliders and dropdowns to tweak attributes.
 - Click "Edit Image" to apply changes.
 - Click "Revert" anytime to return to the original generation.
 
 ---
-## ✨ Custom CSS Styling
+## Custom CSS Styling
 - The app features customized Streamlit CSS to enhance aesthetics:
 - Dark mode background
 - Styled buttons
 - Highlighted sliders and image borders
 
 ---
-## 🤝 Contributing
+## Contributing
 - Pull requests are welcome! Feel free to open an issue if you find a bug or want a new feature.
 
 ---
-## 📄 License
+## License
 - This project is licensed under the MIT License.
 - Feel free to use, modify, and share!
 
