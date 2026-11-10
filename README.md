@@ -3,8 +3,9 @@
 An interactive **Streamlit** app for **generating** and **editing** human faces using **Stable Diffusion models**!  
 Customize features like **age**, **smile intensity**, **eye color**, and **hair color** — all in a beautiful web UI.
 
-This project can also be used to **quickly generate composite images of criminals** based on **witness descriptions**.  
-You can create a realistic base face using text prompts, then **fine-tune features like age, smile, eye color, and hair color** as needed to closely match the witness account — allowing fast and flexible image generation for investigative purposes.
+The project explores **controllable image editing** with diffusion models: create a realistic base face from a text prompt, then adjust individual attributes (age, smile, eye colour, hair colour) while keeping the rest of the face consistent.
+
+> Faces are fully synthetic. Generated faces should not be used to identify or represent real people.
 
 ---
 
